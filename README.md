@@ -17,6 +17,6 @@
 
 Задание выполнено в файлах `/task_1/index.js` и `/task_2/src/lib/Currency.svelte` соответственно
 
-
 [Задание 1](https://github.com/aeroserg/unauffaelliger_name/blob/master/task_1/index.js)
+
 [Задание 2](https://github.com/aeroserg/unauffaelliger_name/blob/master/task_2/src/lib/Currency.svelte)
